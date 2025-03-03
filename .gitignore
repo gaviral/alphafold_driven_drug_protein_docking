@@ -51,13 +51,14 @@ META_README.md
 PROJECT.md
 notebook_generator.py
 TASKS_README.md
-md_to_notebook.py
+notebook_md_sync.py
 alphafold_driven_docking.md
 .cursorrules
 
 # Project-specific files
 # PDB files should be downloaded by the user, not committed
 P14618.pdb
+P14618.pdbqt
 *.pdb
 
 # macOS system files
